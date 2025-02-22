@@ -12,6 +12,7 @@
 - 利用Three.js建立虛擬3D空間與簡單的物件互動。
 - 使用OpenAI GPT API生成回應內容。
 
+"此版本已停用GPT功能，如需完整功能請在本地端運行並使用有效的OpenAI API金鑰。"
 ## Demo
 - 接近時會有文字提示
 ![image](https://github.com/user-attachments/assets/4c0233fa-9364-485c-a979-5a879986e3d3)
